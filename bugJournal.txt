@@ -1,0 +1,2 @@
+# Browser Context is discarded : exeption Nosuchwindow
+    => switch to window [0] before getting web page
